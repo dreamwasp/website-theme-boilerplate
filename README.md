@@ -9,4 +9,4 @@ Check the tutorial @ {insert webpage once published}
 1. `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 2. `npm install`
 
-# You can start your server using `gatsby develop` and view your application in browser @ http://localhost:8000/
+You can start your server using `gatsby develop` and view your application in browser @ http://localhost:8000/
