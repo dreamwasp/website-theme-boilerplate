@@ -4,7 +4,7 @@ Check the tutorial @ {insert webpage once published}
 
 ## Quick Start
 
-# In your Terminal, cd into the directory you'd like to start in and then run:
+### In your Terminal, cd into the directory you'd like to start in and then run:
 
 1. `git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY`
 2. `npm install`
